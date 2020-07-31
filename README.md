@@ -1,0 +1,2 @@
+# luhmann-
+📝 a minimalistic zettelkasten
